@@ -6,7 +6,7 @@ pageextension 70000042 "Sales Order Ext" extends "Sales Order"
 	// ------------------------------------------------------------------------------------------------
    layout
    {
-      // Add changes to page layout here
+      // Add changes to page layout here  
    }
 
    actions
